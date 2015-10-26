@@ -31,6 +31,7 @@ namespace HelloWorld
         {
 
             this.textBlock.Text = nameInput.Text;
+            nameInput.Text = "Gaana";
         }
     }
 }
